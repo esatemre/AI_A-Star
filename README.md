@@ -1,4 +1,4 @@
-Artificial Course Homework - A Star
+Artificial Intelligence Course Homework - A Star
 =========
 The homework which done within the scope of Artificial Intelligence course - Oct/14<br>
 
